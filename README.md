@@ -1,3 +1,14 @@
 # Base-OMNI
 
-Information about signing up for a GitHub account and accessing the source code for OMNI projects.
+OMNI is now on GitHub!
+
+To access our repositories, please contact the moderators or administrators on our discord server.
+
+After that you can find our repositories here:
+
+* Artemis
+* Artemis-Core
+* Artemis-EQ
+* Artemis-ZEN
+
+(Please note that you must have a GitHub account for these links to work.)
