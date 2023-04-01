@@ -10,7 +10,6 @@ After that you can find our repositories here:
 
 * [Artemis](https://github.com/Base-OMNI/Artemis)
 * [Artemis-CORE](https://github.com/Base-OMNI/Artemis-CORE)
-* [Artemis-EQ](https://github.com/Base-OMNI/Artemis-EQ)
 * [Artemis-ZEN](https://github.com/Base-OMNI/Artemis-ZEN)
 
 (Please note that you must have a GitHub account for these links to work.)
