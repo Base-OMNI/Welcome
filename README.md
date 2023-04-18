@@ -9,7 +9,7 @@ To access our repositories, please contact the moderators or administrators on o
 After that you can find our repositories here:
 
 * [Artemis](https://github.com/Base-OMNI/Artemis)
-* [Artemis-CORE](https://github.com/Base-OMNI/Artemis-CORE)
-* [Artemis-ZEN](https://github.com/Base-OMNI/Artemis-ZEN)
+* [Sudoku-Telegram](https://github.com/Base-OMNI/Sudoku-Telegram)
+* [Leadboard](https://github.com/Base-OMNI/Leadboard)
 
 (Please note that you must have a GitHub account for these links to work.)
